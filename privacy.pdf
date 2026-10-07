@@ -1,0 +1,90 @@
+NorSOS Privacy Policy
+Aşağıdaki İngilizce metni web sayfası olarak kullanabilirsin:
+Privacy Policy — NorSOS
+Last updated: 7 October 2026
+NorSOS is an emergency assistance application developed by NorthByte Norway Tec Ltd. This Privacy Policy explains how NorSOS accesses, uses, stores, and shares information when you use the application.
+1. Information NorSOS Accesses
+NorSOS may access the following information:
+Location information
+NorSOS may request access to your approximate and precise location when you use emergency or location-sharing features. Location access is used to obtain your current coordinates and generate a map link that you may share with trusted emergency contacts.
+NorSOS does not continuously track your location and does not intentionally collect location information in the background.
+Emergency contact information
+You may manually add up to three trusted emergency contacts. Their telephone numbers are stored locally on your device so they can be used when preparing an emergency message.
+Application preferences
+Settings such as your selected language and location-sharing preference are stored locally on your device.
+2. How Information Is Used
+Information accessed by NorSOS is used only to provide the application's emergency and safety functions.
+This includes:
+- obtaining your current location when requested;
+- generating a map link containing your coordinates;
+- preparing an SMS message for your selected emergency contacts;
+- opening the device's telephone application to call the emergency number 112;
+- storing your emergency contacts and application preferences locally.
+3. Location Sharing
+NorSOS does not operate a server that receives or stores your location.
+If you choose to share your location, NorSOS creates a Google Maps link based on your current coordinates and prepares a message for your selected trusted contacts.
+The message is opened in your device's SMS application. The sending of the message is handled by your device and telecommunications provider.
+Your location may therefore be disclosed to the recipients you choose when you send the message.
+4. Emergency Calls
+NorSOS may open your device's telephone application with the emergency number 112.
+NorSOS does not itself operate an emergency service and does not directly handle emergency calls.
+Telephone calls are processed by your device, telecommunications provider, and the relevant emergency service.
+5. Local Data Storage
+NorSOS stores certain information locally on your device, including:
+- trusted emergency contact telephone numbers;
+- language preference;
+- location-sharing preference.
+This information is not intentionally uploaded to NorthByte Norway Tec Ltd. servers.
+6. Analytics, Advertising and Tracking
+NorSOS does not currently use:
+- advertising SDKs;
+- behavioral advertising;
+- analytics services;
+- user accounts;
+- cloud-based user profiles;
+- background location tracking.
+NorSOS does not sell personal information.
+7. Third-Party Services
+Certain NorSOS functions interact with services or applications installed on your device.
+These may include:
+Google Maps
+NorSOS may generate a Google Maps URL containing latitude and longitude coordinates. Opening such a link may result in Google processing information under Google's own privacy policies.
+SMS application
+NorSOS may open your device's SMS application with a pre-filled emergency message. The SMS provider, device manufacturer, operating system provider, or telecommunications operator may process information independently.
+Telephone application and emergency services
+Calls initiated through NorSOS are handled by the telephone application, your telecommunications provider, and the relevant emergency authority.
+NorSOS does not control the privacy practices of these independent third parties.
+8. Data Sharing
+NorthByte Norway Tec Ltd. does not intentionally sell, rent, or commercially share NorSOS user information.
+Information may leave your device only when you intentionally use functionality such as sending an emergency message, opening a map link, or initiating a telephone call.
+Emergency messages may contain your location and are shared with the contacts selected by you.
+9. Data Retention
+NorSOS does not maintain a remote database of user profiles or emergency contacts.
+Information stored locally remains on your device until:
+- you modify or remove it;
+- application data is cleared;
+- or the application is uninstalled.
+Location information obtained during an emergency action is used for the relevant operation and is not intentionally retained by NorthByte Norway Tec Ltd. on a remote server.
+10. Data Deletion
+Because NorSOS does not currently provide user accounts or maintain a cloud-based user database, there is no remote user account to delete.
+Users can remove locally stored NorSOS information by changing saved contacts and settings, clearing application data through Android settings, or uninstalling the application.
+11. Security
+NorSOS is designed to minimize the amount of information handled by the application.
+Personal information used by the application's current functionality is primarily processed locally on the user's device.
+However, no device, operating system, telecommunications network, or electronic transmission method can be guaranteed to be completely secure.
+12. Children
+NorSOS is not specifically designed or directed toward children.
+The application does not intentionally collect personal information from children through a user account, advertising system, analytics service, or developer-operated backend.
+13. Emergency Service Disclaimer
+NorSOS is an assistance tool and does not replace official emergency services.
+NorSOS cannot guarantee that a telephone call, SMS message, location request, map service, telecommunications service, or emergency response will always be available or successful.
+In an emergency, users should follow the instructions and procedures of the appropriate official emergency authorities.
+14. Changes to This Privacy Policy
+This Privacy Policy may be updated if NorSOS functionality, data practices, legal requirements, or Google Play requirements change.
+The latest version will be made available on the official privacy policy webpage.
+15. Developer and Contact
+Application: NorSOS
+Developer: NorthByte Norway Tec Ltd.
+Website: https://northbytenorwaytec.se/
+Privacy inquiries: [dogukanyegin@northbytenorwaytec.se]
+If you have questions concerning this Privacy Policy or the handling of information in NorSOS, please contact us using the privacy contact information above.
