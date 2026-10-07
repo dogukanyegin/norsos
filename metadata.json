@@ -1,0 +1,6 @@
+{
+  "name": "Norsos",
+  "description": "Norsos - Acil Durum & SOS Güvenlik Uygulaması",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

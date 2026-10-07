@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 C68,26 80,31 80,44 C80,62 67,76 54,82 C41,76 28,62 28,44 C28,31 40,26 54,26 Z" />
+    <!-- Inner Cross / SOS Symbol -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M50,38 h8 v10 h10 v8 h-10 v10 h-8 v-10 h-10 v-8 h10 Z" />
+</vector>
